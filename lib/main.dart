@@ -4,6 +4,7 @@ void main() {
   runApp(MaterialApp(home: MyApp()));
 }
 
+
 class MyApp extends StatelessWidget {
   String mesaj = "Multiboard2_App";
   @override
