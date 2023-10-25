@@ -4,11 +4,12 @@ void main() {
   runApp(MaterialApp(home: MyApp()));
 }
 
+
 class MyApp extends StatelessWidget {
   String mesaj = "Multiboard2_App";
   @override
   Widget build(BuildContext context) {
-    var studenten = ["Nasuh Özcelik","Kerem Varis","Berkay Bilgin","Murat Kurtbogan"];
+    var studenten = ["Nasuffff Özcelik","Kerem Varis","Berkay Bilgin","Murat Kurtbogan"];
     return Scaffold(
       appBar: AppBar(
         title: Text(mesaj),
